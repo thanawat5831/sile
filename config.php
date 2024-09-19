@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://production.pcru.ac.th/dsd2018/sile/',
+        'url'		=> 'https://dsd.pcru.ac.th/production/sile/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
