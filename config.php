@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://dsd.pcru.ac.th/production/sile/',
+        'url'		=> 'https://stock.fiservice.kmitl.ac.th/xampp/sile/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
